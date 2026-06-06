@@ -1,0 +1,370 @@
+Report of Fri Jun  5 04:46:52 PM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.1M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           340M   80K  340M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1181         481          51        2022        2216
+Swap:              0           0           0
+ 16:46:52 up 38 min,  1 user,  load average: 0.02, 0.13, 0.22
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  8.0 11.0 5084336 384912 ?      Ssl  16:16   2:28 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  1.8  7.2 2816196 253752 ?      Sl   16:16   0:33 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4249  0.0  3.4 1433392 118368 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        4046  0.1  2.1 3545144 76244 ?       Sl   16:16   0:03 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+rana        4290  0.0  2.0 373876 72532 ?        Sl   16:16   0:00 /usr/libexec/ibus-x11
+Report of Fri Jun  5 05:06:38 PM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.1M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           340M   80K  340M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1208         246          51        2235        2189
+Swap:              0           0           0
+ 17:06:38 up 57 min,  1 user,  load average: 0.42, 0.14, 0.13
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  6.4 11.1 5079344 388032 ?      Ssl  16:16   3:15 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  1.5  7.6 2827344 265560 ?      Sl   16:16   0:46 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4249  0.0  3.4 1433392 118368 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        4046  0.1  2.1 3545148 76260 ?       Sl   16:16   0:04 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+rana        4290  0.0  2.0 373876 72532 ?        Sl   16:16   0:00 /usr/libexec/ibus-x11
+Report of Fri Jun  5 05:11:18 PM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.1M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           340M   80K  340M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1211         242          51        2236        2186
+Swap:              0           0           0
+ 17:11:18 up  1:02,  1 user,  load average: 0.12, 0.09, 0.10
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  6.2 11.1 5079344 388004 ?      Ssl  16:16   3:27 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  1.5  7.6 2827344 265588 ?      Rl   16:16   0:50 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4249  0.0  3.4 1433392 118368 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        4046  0.1  2.1 3545148 76388 ?       Sl   16:16   0:04 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+rana        4290  0.0  2.0 373876 72532 ?        Sl   16:16   0:00 /usr/libexec/ibus-x11
+/bin/sh: 1: /home/rana/servermonitor.sh: not found
+/bin/sh: 1: /home/rana/servermonitor.sh: not found
+/bin/sh: 1: /home/rana/servermonitor.sh: not found
+Linux Server Monitoring and Alerting System
+Disk Usage in a human readable format
+Memomry usage
+CPU utilisation
+Show Top 5 processes
+Show the latest log from the report file
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1303         232          59        2162        2094
+Swap:              0           0           0
+ 18:20:01 up  2:11,  1 user,  load average: 0.01, 0.05, 0.07
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  4.2 12.6 5158476 441184 ?      Ssl  16:16   5:12 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  1.0  8.7 2888868 305696 ?      Sl   16:16   1:14 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4249  0.0  3.4 1433988 118376 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        7288  0.1  2.1 3206060 73964 ?       Sl   17:50   0:02 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+rana        4290  0.0  2.0 373876 72532 ?        Sl   16:16   0:00 /usr/libexec/ibus-x11
+Linux Server Monitoring and Alerting System
+Disk Usage in a human readable format
+Report of Fri Jun  5 06:25:01 PM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.4M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           340M   96K  340M   1% /run/user/1000
+Memomry usage
+CPU utilisation
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1308         227          59        2162        2089
+Swap:              0           0           0
+ 18:25:01 up  2:16,  1 user,  load average: 0.00, 0.01, 0.04
+Show Top 5 processes
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  4.0 12.6 5158476 441288 ?      Ssl  16:16   5:15 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  0.9  8.7 2888868 306056 ?      Sl   16:16   1:14 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4249  0.0  3.4 1433988 118376 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        7288  0.1  2.1 3206060 73992 ?       Sl   17:50   0:02 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+rana        4290  0.0  2.0 373876 72532 ?        Sl   16:16   0:00 /usr/libexec/ibus-x11
+Show the latest log from the report file
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1308         227          59        2162        2089
+Swap:              0           0           0
+ 18:25:01 up  2:16,  1 user,  load average: 0.00, 0.01, 0.04
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  4.0 12.6 5158476 441288 ?      Ssl  16:16   5:15 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  0.9  8.7 2888868 306056 ?      Sl   16:16   1:14 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4249  0.0  3.4 1433988 118376 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        7288  0.1  2.1 3206060 73992 ?       Sl   17:50   0:02 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+rana        4290  0.0  2.0 373876 72532 ?        Sl   16:16   0:00 /usr/libexec/ibus-x11
+Linux Server Monitoring and Alerting System
+Disk Usage in a human readable format
+Report of Fri Jun  5 06:30:02 PM UTC 2026
+Report of Fri Jun  5 06:30:02 PM UTC 2026
+Memomry usage
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.4M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           340M   96K  340M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.4M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           340M   96K  340M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1307         223          59        2167        2090
+Swap:              0           0           0
+CPU utilisation
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1307         223          59        2167        2090
+Swap:              0           0           0
+Show Top 5 processes
+ 18:30:02 up  2:21,  1 user,  load average: 0.12, 0.06, 0.04
+ 18:30:02 up  2:21,  1 user,  load average: 0.12, 0.06, 0.04
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  4.1 12.6 5158472 441240 ?      Ssl  16:16   5:29 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  0.9  8.7 2883736 304820 ?      Sl   16:16   1:19 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4249  0.0  3.4 1433988 118376 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        7288  0.1  2.1 3206060 73984 ?       Sl   17:50   0:03 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+rana        4290  0.0  2.0 373876 72532 ?        Sl   16:16   0:00 /usr/libexec/ibus-x11
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  4.1 12.6 5158472 441240 ?      Ssl  16:16   5:29 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  0.9  8.7 2883736 304820 ?      Sl   16:16   1:19 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4249  0.0  3.4 1433988 118376 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        7288  0.1  2.1 3206060 73984 ?       Sl   17:50   0:03 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+rana        4290  0.0  2.0 373876 72532 ?        Sl   16:16   0:00 /usr/libexec/ibus-x11
+Show the latest log from the report file
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1307         223          59        2167        2090
+Swap:              0           0           0
+ 18:30:02 up  2:21,  1 user,  load average: 0.12, 0.06, 0.04
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  4.1 12.6 5158472 441240 ?      Ssl  16:16   5:29 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  0.9  8.7 2883736 304820 ?      Sl   16:16   1:19 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4249  0.0  3.4 1433988 118376 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        7288  0.1  2.1 3206060 73984 ?       Sl   17:50   0:03 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+rana        4290  0.0  2.0 373876 72532 ?        Sl   16:16   0:00 /usr/libexec/ibus-x11
+Linux Server Monitoring and Alerting System
+Disk Usage in a human readable format
+Report of Fri Jun  5 06:35:01 PM UTC 2026
+Report of Fri Jun  5 06:35:01 PM UTC 2026
+Report of Fri Jun  5 06:35:01 PM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.4M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           340M   96K  340M   1% /run/user/1000
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.4M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           340M   96K  340M   1% /run/user/1000
+Memomry usage
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.4M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           340M   96K  340M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1463         265         111        2021        1935
+Swap:              0           0           0
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1463         265         111        2021        1935
+Swap:              0           0           0
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1463         265         111        2021        1935
+Swap:              0           0           0
+CPU utilisation
+ 18:35:01 up  2:26,  1 user,  load average: 0.17, 0.10, 0.06
+ 18:35:01 up  2:26,  1 user,  load average: 0.17, 0.10, 0.06
+ 18:35:01 up  2:26,  1 user,  load average: 0.17, 0.10, 0.06
+Show Top 5 processes
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  4.3 14.7 5226352 511608 ?      Ssl  16:16   6:06 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  1.0  8.7 2887884 305160 ?      Sl   16:16   1:24 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        7828  3.3  8.3 2862596 292236 ?      Sl   18:30   0:08 /usr/bin/nautilus --gapplication-service
+rana        4249  0.0  3.4 1433988 118376 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        7288  0.2  2.2 3688952 77152 ?       Sl   17:50   0:06 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  4.3 14.7 5226352 511608 ?      Ssl  16:16   6:06 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  1.0  8.7 2887884 305160 ?      Sl   16:16   1:24 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        7828  3.3  8.3 2862596 292236 ?      Sl   18:30   0:08 /usr/bin/nautilus --gapplication-service
+rana        4249  0.0  3.4 1433988 118376 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        7288  0.2  2.2 3688952 77152 ?       Sl   17:50   0:06 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+Show the latest log from the report file
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  4.3 14.7 5226352 511608 ?      Ssl  16:16   6:06 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  1.0  8.7 2887884 305160 ?      Sl   16:16   1:24 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        7828  3.3  8.3 2862596 292236 ?      Sl   18:30   0:08 /usr/bin/nautilus --gapplication-service
+rana        4249  0.0  3.4 1433988 118376 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        7288  0.2  2.2 3688952 77152 ?       Sl   17:50   0:06 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1463         265         111        2021        1935
+Swap:              0           0           0
+ 18:35:01 up  2:26,  1 user,  load average: 0.17, 0.10, 0.06
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  4.3 14.7 5226352 511608 ?      Ssl  16:16   6:06 /usr/bin/gnome-shell --mode=ubuntu
+rana        4191  1.0  8.7 2887884 305160 ?      Sl   16:16   1:24 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        7828  3.3  8.3 2862596 292236 ?      Sl   18:30   0:08 /usr/bin/nautilus --gapplication-service
+rana        4249  0.0  3.4 1433988 118376 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        7288  0.2  2.2 3688952 77152 ?       Sl   17:50   0:06 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+Report of Fri Jun  5 06:38:35 PM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.4M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           340M   96K  340M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1542         184         160        2071        1855
+Swap:              0           0           0
+ 18:38:35 up  2:29,  1 user,  load average: 0.23, 0.29, 0.15
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3040  4.9 16.1 5254904 561832 ?      Ssl  16:16   7:02 /usr/bin/gnome-shell --mode=ubuntu
+rana        7828  2.4 10.4 2919632 363640 ?      Sl   18:30   0:11 /usr/bin/nautilus --gapplication-service
+rana        4191  1.0  8.5 2856132 298680 ?      Sl   16:16   1:28 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4249  0.0  3.4 1433988 118376 ?      Sl   16:16   0:00 /usr/libexec/mutter-x11-frames
+rana        7288  0.2  2.2 3697440 77928 ?       Sl   17:50   0:08 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+Report of Sat Jun  6 05:22:44 AM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.1M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           340M   80K  340M   1% /run/user/1000
+Report of Sat Jun  6 05:24:35 AM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.1M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           340M   80K  340M   1% /run/user/1000
+Report of Sat Jun  6 05:25:16 AM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.1M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           340M   80K  340M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1313         553          74        1827        2084
+Swap:              0           0           0
+ 05:25:16 up 24 min,  1 user,  load average: 0.33, 0.32, 0.33
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3244 12.3 11.8 5114700 410828 ?      Ssl  05:09   1:55 /usr/bin/gnome-shell --mode=ubuntu
+rana        4104  0.4  7.5 2815104 263032 ?      Sl   05:10   0:04 /usr/bin/nautilus --gapplication-service
+rana        4576  1.9  7.1 2813444 249196 ?      Sl   05:10   0:17 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4412  0.0  3.3 1433392 118276 ?      Sl   05:10   0:00 /usr/libexec/mutter-x11-frames
+rana        4267  0.3  2.2 3624244 77648 ?       Sl   05:10   0:03 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+Report of Sat Jun  6 05:38:30 AM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.1M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           340M   80K  340M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1321         545          74        1829        2076
+Swap:              0           0           0
+ 05:38:31 up 37 min,  1 user,  load average: 0.09, 0.11, 0.17
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3244  9.4 11.8 5109752 413796 ?      Ssl  05:09   2:43 /usr/bin/gnome-shell --mode=ubuntu
+rana        4104  0.2  7.5 2815104 263024 ?      Sl   05:10   0:04 /usr/bin/nautilus --gapplication-service
+rana        4576  1.4  7.1 2814476 250504 ?      Sl   05:10   0:24 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4412  0.0  3.3 1433392 118276 ?      Sl   05:10   0:00 /usr/libexec/mutter-x11-frames
+rana        4267  0.2  2.2 3624244 77740 ?       Sl   05:10   0:04 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+Report of Sat Jun  6 05:47:16 AM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.1M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           340M   80K  340M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1337         476          74        1895        2061
+Swap:              0           0           0
+ 05:47:16 up 46 min,  1 user,  load average: 0.20, 0.15, 0.16
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3244  8.1 11.8 5116952 413864 ?      Ssl  05:09   3:02 /usr/bin/gnome-shell --mode=ubuntu
+rana        4104  0.2  7.5 2815104 263016 ?      Sl   05:10   0:04 /usr/bin/nautilus --gapplication-service
+rana        4576  1.3  7.2 2814476 250748 ?      Sl   05:10   0:29 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4412  0.0  3.3 1433392 118276 ?      Sl   05:10   0:00 /usr/libexec/mutter-x11-frames
+rana        4267  0.2  2.2 3624244 77736 ?       Sl   05:10   0:05 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+Report of Sat Jun  6 05:49:08 AM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.1M  678M   1% /run
+/dev/sda2        25G  7.4G   16G  32% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           340M   80K  340M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1340         473          74        1895        2057
+Swap:              0           0           0
+ 05:49:08 up 48 min,  1 user,  load average: 0.14, 0.15, 0.16
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3244  8.2 11.8 5116952 414052 ?      Ssl  05:09   3:15 /usr/bin/gnome-shell --mode=ubuntu
+rana        4104  0.2  7.5 2815104 263016 ?      Sl   05:10   0:04 /usr/bin/nautilus --gapplication-service
+rana        4576  1.3  7.2 2814476 250792 ?      Rl   05:10   0:31 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4412  0.0  3.3 1433392 118276 ?      Sl   05:10   0:00 /usr/libexec/mutter-x11-frames
+rana        4267  0.2  2.2 3624244 77760 ?       Sl   05:10   0:05 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
+Report of Sat Jun  6 06:45:22 AM UTC 2026
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           680M  2.4M  678M   1% /run
+/dev/sda2        25G  7.6G   16G  33% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+none            1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none            1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           340M   88K  340M   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            3398        1472         429          59        1835        1925
+Swap:              0           0           0
+ 06:45:22 up  1:44,  1 user,  load average: 0.15, 0.66, 0.51
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+rana        3244  5.1 13.8 5190280 482480 ?      Ssl  05:09   4:55 /usr/bin/gnome-shell --mode=ubuntu
+rana        4104  0.1  7.1 2815120 247184 ?      Sl   05:10   0:08 /usr/bin/nautilus --gapplication-service
+rana       17870  2.0  6.7 2783672 236264 ?      Sl   06:41   0:04 ptyxis --new-window --working-directory /home/rana/Desktop
+rana        4412  0.0  3.3 1433732 116100 ?      Sl   05:10   0:00 /usr/libexec/mutter-x11-frames
+rana        7107  0.6  2.2 3624536 77500 ?       Sl   06:34   0:04 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/app/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com/app
